@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJS projects, Javascript projects**
 
-- 👨‍💻 All of my projects are available at [https://luismiguel.vercel.app/](https://luismiguel.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://luismiguel.vercel.app/" target="_blank" >https://luismiguel.vercel.app/</a>
 
 - 💬 Ask me about **Frontend Development / ReactJS, JS, HTML, CSS, UX/UI**
 
