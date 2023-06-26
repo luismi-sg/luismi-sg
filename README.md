@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luismi</h1>
 <h3 align="center">Frontend Developer / Graphic Designer</h3>
 
-- 🔭 I’m currently working on **Au Consultores as a web designer**
+- 🔭 I’m currently working on **Au Consultores as a Web Designer**
 
-- 🌱 I’m currently learning **SCSS, Typescript, Figma**
+- 🌱 I’m currently learning **SCSS, Figma**
 
-- 👯 I’m looking to collaborate on **ReactJS projects, Javascript projects**
+- 👯 I’m looking to collaborate on **Web Design, ReactJS projects, Javascript projects**
 
 - 👨‍💻 All of my projects are available at <a href="https://luismiguel.vercel.app/" target="_blank" >https://luismiguel.vercel.app/</a>
 
