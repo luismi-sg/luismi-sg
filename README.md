@@ -13,9 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 👨‍💻 All of my projects are available at <a href="https://luismiguel.vercel.app/" target="_blank" >https://luismiguel.vercel.app/</a>
 
-- 📫 How to reach me **lmsg1191@gmail.com**
+  - 👨‍💻 All of my projects are available at <a href="https://luismiguel.vercel.app/" target="_blank" >https://luismiguel.vercel.app/</a>
+  
+  - 📫 How to reach me **lmsg1191@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
