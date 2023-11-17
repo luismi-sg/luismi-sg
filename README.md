@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luismi</h1>
 <h3 align="center">Frontend Developer & UX/UI Designer</h3>
 
-- 🔭 I’m currently working on **Au Consultores as a Web Designer**
+- 🔭 I’m working on **Au Consultores as a Web Designer** but i'm open to hear offers
 
-- 🌱 I’m currently learning **SCSS**
+- 🌱 I’m currently learning **SASS**
 
 - 💬 Ask me about **Frontend Development / ReactJS, JS, HTML, CSS, UX/UI**
 
