@@ -1,22 +1,13 @@
-<h1 align="left">Hi 👋, I'm Luismi</h1>
-<h3 align="left">FrontEnd Developer & UX/UI Designer</h3>
+<h1 align="left">Hi! 👽 I'm Luis Miguel, also known as LuisMi.</h1>
+<h2>Frontend Developer and UX/UI Designer.</h2>
 
-- 🔭 I’m working at **Au Consultores as a Web Designer**
-
-- 🌱 I’m currently learning **SASS**
-
-- 💬 Ask me about **FrontEnd Development / ReactJS, JS, HTML, CSS, UX/UI Design**
-
-- ✅ I love to work with **Atomic Design - Agile Methodology - Pixel Perfect - Team Group**
-
-- 👯 I’m looking to collaborate on **Web Design, ReactJS projects, Javascript projects**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  - 👨‍💻 All of my projects are available at <a href="https://luismiguel.vercel.app/" target="_blank" >https://luismiguel.vercel.app/</a>
+  👾 I love to work with **Atomic Design - Agile Methodology - Pixel Perfect**
   
-  - 📫 How to reach me **lmsg1191@gmail.com**
+  👾 All of my projects are available at <a href="https://luismiguel.vercel.app/" target="_blank" >https://luismiguel.vercel.app/</a>
+  
+  👾 How to reach me **lmsg1191@gmail.com**
 </p>
 
 <h3 align="left">Front-End:</h3>
