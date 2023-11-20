@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Luismi</h1>
-<h3 align="center">Frontend Developer & UX/UI Designer</h3>
+<h1 align="left">Hi 👋, I'm Luismi</h1>
+<h3 align="left">FrontEnd Developer & UX/UI Designer</h3>
 
-- 🔭 I’m working on **Au Consultores as a Web Designer** but i'm open to hear offers
+- 🔭 I’m working at **Au Consultores as a Web Designer**
 
 - 🌱 I’m currently learning **SASS**
 
-- 💬 Ask me about **Frontend Development / ReactJS, JS, HTML, CSS, UX/UI**
+- 💬 Ask me about **FrontEnd Development / ReactJS, JS, HTML, CSS, UX/UI Design**
 
-- ✅ I love to work with **Figma - Atomic Design - Agile Methodology - Pixel Perfect - Team Group**
+- ✅ I love to work with **Atomic Design - Agile Methodology - Pixel Perfect - Team Group**
 
 - 👯 I’m looking to collaborate on **Web Design, ReactJS projects, Javascript projects**
 
