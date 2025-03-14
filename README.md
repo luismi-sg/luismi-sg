@@ -1,11 +1,11 @@
 <h1 align="left">Hi! 👽 I'm Luis Miguel, also known as LuisMi.</h1>
-<h2>Frontend Developer and UX/UI Designer.</h2>
+<h2>UX/UI Designer & Web Developer</h2>
 
 <p align="left">
 
   👾 I love to work with **Atomic Design - Agile Methodology - Pixel Perfect**
   
-  👾 All of my projects are available at <a href="https://luismiguel.vercel.app/" target="_blank" >https://luismiguel.vercel.app/</a>
+  👾 All of my projects are available at <a href="https://luismi.xyz/" target="_blank" >luismi.xyz/</a>
   
   👾 How to reach me **lmsg1191@gmail.com**
 </p>
